@@ -121,8 +121,8 @@ experiences:
           - 客服
           - 线上及线下广告宣传
           - 产品质检
-projects: 项目经历
-    title: 
+projects: 
+    title: 项目经历
     intro: >
     assignments:
       - title: Linx（本地线上购物平台, 微信小程序)
