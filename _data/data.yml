@@ -8,12 +8,12 @@ sidebar:
     
     # Profile information
     name: 刘寅韬
-    tagline: 研究生在读
+    tagline: 
     avatar: profile 1x1.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: fakrux077a@163.com
-    phone: +86 18962557546
+    phone: 18962557546
     citizenship: 中国（大陆）
     website:  #do not add http://
     linkedin: 
